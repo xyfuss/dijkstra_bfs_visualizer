@@ -1,7 +1,7 @@
 import pygame
 import sys
 """
-Djikstra BFS Visualizer
+Dijkstra BFS Visualizer
 
 Made by xyfuss using video tutorial by Max Rohowsky: https://www.youtube.com/watch?v=QNpUN8gBeLY
 
